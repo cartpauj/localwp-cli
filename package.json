@@ -13,5 +13,5 @@
     "start": "node src/index.js",
     "build": "bash scripts/build.sh"
   },
-  "license": "MIT"
+  "license": "GPL-2.0-or-later"
 }

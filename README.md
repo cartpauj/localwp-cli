@@ -264,7 +264,7 @@ The auth token lives at `<config>/graphql-connection-info.json`. It rotates on e
 
 ## License
 
-MIT
+GPL v2 or any later version — see [LICENSE](LICENSE).
 
 ## Related
 
