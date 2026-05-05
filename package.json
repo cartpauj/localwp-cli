@@ -1,0 +1,17 @@
+{
+  "name": "localwp-cli",
+  "version": "1.0.0",
+  "description": "Command-line control for LocalWP (Local by Flywheel) sites",
+  "bin": {
+    "lwp": "src/index.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "bash scripts/build.sh"
+  },
+  "license": "MIT"
+}
